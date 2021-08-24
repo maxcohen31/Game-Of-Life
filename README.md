@@ -6,15 +6,15 @@ This game became widely known when it was mentioned in an article published by S
 ## Rules
 **For a space that is populated**
 
-Each cell with one or no neighbors dies, as if by solitude.
+> - Each cell with one or no neighbors dies, as if by solitude.
 
-Each cell with four or more neighbors dies, as if by overpopulation.
+> - Each cell with four or more neighbors dies, as if by overpopulation.
 
-Each cell with two or three neighbors survives.
+> - Each cell with two or three neighbors survives.
 
 **For  a space that is empty or unpopulated**
 
-Each cell with three neighbors becomes populated.
+> - Each cell with three neighbors becomes populated.
 
 
 [Numberphile Video](https://www.youtube.com/watch?v=R9Plq-D1gEk)
